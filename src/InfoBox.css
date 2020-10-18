@@ -1,0 +1,44 @@
+.infoBox {
+    flex: 1;
+  }
+  
+  .infoBox:not(:last-child) {
+    margin-right: 10px;
+  }
+  
+  .infoBox--selected {
+    border-top: 10px solid greenyellow;
+  }
+  
+  .infoBox--red {
+    border-color: red;
+  }
+  
+  .infoBox__cases--green {
+    color: lightgreen !important;
+  }
+  
+  .infoBox__cases {
+    color: #cc1034;
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .infoBox__title{
+      text-transform: uppercase;
+      color:green !important;
+      
+
+  }
+  
+  .infoBox__total {
+    color:red !important;
+    font-weight: 700 !important;
+    font-size: 1 rem !important;
+    margin-top: 15px !important;
+  }
+  h2{
+      
+      color: #cc1034;
+  }
