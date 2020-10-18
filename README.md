@@ -1,3 +1,19 @@
+![Screenshot (283)](https://user-images.githubusercontent.com/30326503/96369122-068ea680-1150-11eb-9da3-29554cd66042.png)
+
+![Screenshot (282)](https://user-images.githubusercontent.com/30326503/96369131-15755900-1150-11eb-82e9-f8ea04a8c089.png)
+
+![Screenshot (281)](https://user-images.githubusercontent.com/30326503/96369134-1c03d080-1150-11eb-99ce-451af050c060.png)
+
+ This is the App Developed in React.js using React Hooks Material UI, API giving live Updates of COVID 19 Cases worldwide
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
